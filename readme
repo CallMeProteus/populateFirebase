@@ -1,0 +1,9 @@
+Script to bulk populate firebase database
+
+Download your firebase json credentials and populate its path in the script
+
+Load all json files you want uploaded into a folder, link the folder path in the script, the script will auto-detect  all the files and upload them to firebase database
+
+Run the script 
+
+NB: collection name will be set to name of the json files with 

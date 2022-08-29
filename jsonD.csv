@@ -1,0 +1,1069 @@
+CONSTI_NAME,CountiCode,SurName,OtherNames,COUNTY_NAME,
+Baringo Central,30,Kandie,Joshua Chepyegon,Baringo,
+Baringo South,30,Charles,Kamuren,Baringo,
+Baringo North,30,Kipkiror,William Cheptumo,Baringo,
+Eldama Ravine,30,Lessonet,Moses K.,Baringo,
+Mogotio,30,Tuitoek,Daniel Kamuren,Baringo,
+Tiaty,30,Kamket,Kassait William,Baringo,
+Bumula,39,Mabonga,Moses Wekesa Mwambu,BUNGOMA,
+Kabuchai,39,Mukwe,James Lusweti,BUNGOMA,
+Kanduyi,39,Wamunyinyi,Athanas Misiko Wafula,BUNGOMA,
+Kimilili,39,Mutua,Didmus Wekesa Barasa,BUNGOMA,
+Mt. Elgon,39,Chesebe,Fred Kapondi,BUNGOMA,
+Sirisia,39,Koyi,John Waluke,BUNGOMA,
+Tongaren,39,Simiyu,David Eseli,BUNGOMA,
+Webuye West,39,Sitati,Daniel Wanyama,BUNGOMA,
+Webuye East,39,Sambu,Bernard Alfred Wekesa,BUNGOMA,
+Bomet Central,36,Tonui,Ronald Kiprotich,BOMET,
+Bomet East,36,Kones,Beatrice Pauline Cherono,BOMET,
+Chepalungu,36,Koske,Gideon Kimutai,BOMET,
+Sotik,36,Koskei,Dominic Kipkoech,BOMET,
+Konoin,36,Leonard,Yegon Brighton,BOMET,
+Nambale,40,Bunyasi,Sakwa John,BUSIA,
+Butula,40,Oyula,Joseph H. Maero,BUSIA,
+Funyula,40,Oundo,Dr. Wilberforce Ojiambo,BUSIA,
+Budalangi,40,Wanjala,Raphael Bitta Sauti,BUSIA,
+Matayos,40,Odanga,Geoffrey Makokha,BUSIA,
+Teso North,40,Kaunya,Edward Oku,BUSIA,
+Teso South,40,Omuse,Geoffrey,BUSIA,
+Keiyo North,28,"Murgor, James Kipkosgei",ELGEYO MARAKWET,
+Keiyo South,28,"Rono, Daniel Kipkogei",ELGEYO MARAKWET,
+Marakwet West,28,"Kisang, William Kipkemoi",ELGEYO MARAKWET,
+Marakwet East,28,"Bowen, David Kangogo",ELGEYO MARAKWET,
+Runyenjes,14,"Njiru, Eric Muchangi",EMBU,
+Manyatta,14,"Nyaga, John Muchiri",EMBU,
+Mbeere North,14,"Njagagua, Charles Muriuki",EMBU,
+Mbeere South,14,"Muturi, Geoffrey Kingagi",EMBU,
+Fafi,7,Abdikarim Osman Mohamed,GARISSA,
+Garissa town,7,"Duale, Aden Bare",GARISSA,
+Ijara,7,"Noor, Sophia Abdi",GARISSA,
+Lagdera,7,"Garane, Mohamed Hire",GARISSA,
+Balambala,7,"Shurie, Abdi Omar",GARISSA,
+Dadaab,7,"Duale, Mohamed Dahir",GARISSA,
+HomaBay Constituency,43,"Wanga, Gladys Atieno Nyasuna",HOMA BAY,
+"Kabondo Kasipul,",43,"Obara, Eve Akinyi",HOMA BAY,
+Karachuonyo,43,"Okuome, Andrew Adipo",HOMA BAY,
+Kasipul,43,"Were, Charles Ong’ondo",HOMA BAY,
+Mbita,43,Millie Grace Akoth Odhiambo,HOMA BAY,
+Ndhiwa,43,"Owino, Martin Peters",HOMA BAY,
+Rangwe,43,"Gogo, Lilian Achieng",HOMA BAY,
+Suba,43,"Ng'ongo, Mbadi John",HOMA BAY,
+Isiolo North,11,"Hulufo, Hassan Oda",ISIOLO,
+Isiolo South,11,"Tepo, Abdi Koropu",ISIOLO,
+Kajiado Central,34,"Kanchory, Elijah Memusi",KAJIADO,
+Kajiado North,34,"Teyiaa, Janet Marania","No pic, not sure who the MP is.",KAJIADO,
+Kajiado East,34,"Tobiko, Peris Pesi",KAJIADO,
+Kajiado West,34,"Sunkuyia, George Risa",KAJIADO,
+Kajiado South,34,"Ole Metito, Katoo Judah",KAJIADO,
+Butere,37,"Mwale, Nicholas Scott Tindi",KAKAMEGA,
+Ikolomani,37,"Shinali, Benard Masaka",KAKAMEGA,
+Lurambi,37,"Mukhwana, Titus Khamala",KAKAMEGA,
+Malava,37,"Injendi, Moses Malulu",KAKAMEGA,
+Shinyalu,37,"M’mbaya, Justus Kisito Mugali",KAKAMEGA,
+Khwisero,37,"Wangaya, Christopher Aseka",KAKAMEGA,
+Likuyani,37,"Kibunguchy, Enoch Wamalwa",KAKAMEGA,
+Lugari,37,"Angatia, Ayub Savula",KAKAMEGA,
+Matungu,37,"Makokha, Justus Murunga",KAKAMEGA,
+Mumias East,37,"Washiali, Benjamin Jomo",KAKAMEGA,
+Mumias West,37,"Naicca, Johnson Manya",KAKAMEGA,
+Navakholo,37,"Wangwe, Emmanuel",KAKAMEGA,
+Ainamoi,35,"Maritim, Sylvanus",KERICHO,
+Belgut,35,"Koech, Nelson",KERICHO,
+Bureti,35,"Mutai, Japheth Kiplangat",KERICHO,
+Kipkelion East,35,"Limo, Kirui Joseph",KERICHO,
+Kipkelion West,35,"Kosgei, Hilary Kiplang’at",KERICHO,
+Sigowet–Soin,35,"Koros, Kipsengeret",KERICHO,
+Gatundu North,22,"Kibeh, Annie Wanjiku",KIAMBU,
+Gatundu South,22,"Kuria, Moses Kiarie",KIAMBU,
+Githunguri,22,"Mukuha, Gabriel Kago",KIAMBU,
+Juja,22,"Waititu, Francis Munyua",KIAMBU,
+Kabete,22,"Wamacukuru, James Githua Kamau",KIAMBU,
+Kiambaa,22,"Koinange, Paul",KIAMBU,
+Kiambu,22,"Njomo, Jude L. Kangethe",KIAMBU,
+Kikuyu,22,"Ichung'wah, Anthony Kimani",KIAMBU,
+Lari,22,"Mwangi, Jonah Mburu",KIAMBU,
+Limuru,22,"Mwathi, Peter Mungai",KIAMBU,
+Ruiru,22,"Kingara, Simon Nganga",KIAMBU,
+Thika Town,22,Patrick Wainaina,KIAMBU,
+Ganze,"Mwambire, Teddy Ngumbao",KILIFI,
+Rabai,"Mwamkale, William Kamoti",KILIFI,
+Malindi,"Katana, Aisha Jumwa Karisa",KILIFI,
+Kaloleni,"Katana, Paul Kahindi",KILIFI,
+Magarini,"Kingi, Michael Thoyah",KILIFI,
+Kilifi North,"Baya, Owen Yaa",KILIFI,
+Kilifi South,"Kiti, Richard Ken Chonga",KILIFI,
+Mwea,20,"Wachira, Josphat Kabinga",KIRINYAGA,
+Gichugu,20,"Githinji, Robert Gichimu",KIRINYAGA,
+Ndia,20,"Gk, George Macharia Kariuki",KIRINYAGA,
+Kirinyaga,20,"Wambugu, John Munene",KIRINYAGA,
+Bobasi,45,"Obiri, Innocent Momanyi",KISII,
+Bonchari,45,"Oyioka, John Oroo",KISII,
+Bomachoge Borabu,45,"Ogutu, Zadoc Abel",KISII,
+Bomachoge Chache,45,"Alfah, Miruka Ondieki",KISII,
+Kitutu Chache North,45,"Angwenyi, Jimmy Nuru Ondieki",KISII,
+Kitutu Chache South,45,"Onyonka, Richard Momoima",KISII,
+Nyaribari Chache,45,"Tongi, Richard Nyagaka",KISII,
+Nyaribari Masaba,45,"Ombaki, Ezekiel Machogu",KISII,
+South Mugirango,45,"Onyiego, Silvanus Osoro",KISII,
+Kisumu East,42,"Ahmed, Shakeel Ahmed Shabbir",KISUMU,
+Kisumu West,42,"Aluoch, John Olago",KISUMU,
+Kisumu Central,42,"Ouda, Fred Odhiambo",KISUMU,
+Muhoroni,42,"Oyoo, James Onyango",KISUMU,
+Nyakach,42,"Owuor, Joshua Aduma",KISUMU,
+Nyando,42,"Okelo, Jared Odoyo",KISUMU,
+Seme,42,"Nyikal, James Wambura",KISUMU,
+Kitui Central,15,"Mulu, Benson Makali",KITUI,
+Kitui East,15,"Mbai, Nimrod Mbithuka",KITUI,
+Kitui Rural,15,"Mboni, David Mwalika",KITUI,
+Kitui South,15,"Nyamai, Rachael Kaki",KITUI,
+Kitui West,15,"Nyenze, Edith Vethi",KITUI,
+Mwingi Central,15,"Mulyungi, Gideon Mutemi",KITUI,
+Mwingi North,15,"Nzengu, Paul Musyimi",KITUI,
+Mwingi West,15,"Nguna, Charles Ngusya",KITUI,
+Msambweni,2,,KWALE,
+Matuga,2,"Tandaza, Kassim Sawa",KWALE,
+Kinango,2,"Tayari, Benjamin Dalu Stephen",KWALE,
+Lunga Lunga,2,"Mwashetani, Khatib Abdallah",KWALE,
+Laikipia North,31,"Korere, Sarah Paulata",LAIKIPIA,
+Laikipia West,31,"Mariru, Patrick Kariuki",LAIKIPIA,
+Laikipia East,31,"Ali, Amin Deddy Mohamed",LAIKIPIA,
+Lamu West,5,"Muthama, Stanley Muiruri",LAMU,
+Lamu East,5,"Ali, Sharif Athman",No good pic yet,LAMU,
+Masinga,16,"Mwalyo, Joshua Mbithi",MACHAKOS,
+Yatta,16,"Kilonzo, Charles Mutavi",MACHAKOS,
+Kangundo,16,"Muli, Fabian Kyule",MACHAKOS,
+Matungulu,16,"Mule, Stephen Mutinda",MACHAKOS,
+Kathiani,16,"Mbui, Robert",MACHAKOS,
+Mavoko,16,"King'ola, Patrick Makau",MACHAKOS,
+Machakos Town,16,"Munyaka, Victor Kioko",MACHAKOS,
+Mwala,16,"Musau, Vincent Musyoka",MACHAKOS,
+Makueni,17,Daniel Kitonga Maanzo,MAKUENI,
+Mbooni,17,"Nzioka, Erastus Kivasu",MAKUENI,
+Kaiti,17,"Kimilu, Joshua Kivinda",MAKUENI,
+Kilome,17,"Nzambia, Thuddeus Kithua",MAKUENI,
+Kibwezi West,17,"Musimba, Patrick Mweu",MAKUENI,
+Kibwezi East,17,"Mbalu, Jessica Nduku Kiko",MAKUENI,
+Mandera West,9,"Yussuf, Adan Haji",MANDERA,
+Banissa,9,"Hassan, Kulow Maalim",MANDERA,
+Mandera East,9,"Hassan, Omar Mohamed Maalim",MANDERA,
+Lafey,9,"Ibrahim, Abdi Mude",MANDERA,
+Mandera South,9,"Ali, Adan Haji",MANDERA,
+Mandera North,9,"Abdullaih, Major (Rtd) Bashir S.",MANDERA,
+Awendo,44,"Owino, John Walter",MIGORI,
+Kuria East,44,"Kitayama, Marwa Kemero Maisori",MIGORI,
+Kuria West,44,"Robi, Mathias Nyamabe",MIGORI,
+Nyatike,44,"Odege, Tom Mboya",MIGORI,
+Rongo,44,"Abuor, Paul",MIGORI,
+Suna East,44,"Nuh, Junet Sheikh",MIGORI,
+Suna west,44,"Masara, Peter Francis",MIGORI,
+Uriri,44,"Nyamita, Mark Ogolla",MIGORI,
+Changamwe,1,"Shimbwa, Omar Mwinyi",MOMBASA,
+Jomvu,1,"Bady, Bady Twalib",MOMBASA,
+Kisauni,1,"Mbogo, Ali Menza",MOMBASA,
+Likoni,1,"Mboko, Mishi Juma Khamisi",MOMBASA,
+Mvita,1,"Nassir, Abdullswamad Sheriff",MOMBASA,
+Nyali,1,Mohamed Mohamed Ali,MOMBASA,
+Kangema,21,"Kigano, Clement Muturi",MURANG'A,
+Kiharu,21,"Nyoro, Samson Ndindi",MURANG'A,
+Mathioya,21,"Kihara, Peter Kimari",MURANG'A,
+Kigumo,21,"Mwaniki, Ruth Wangari",MURANG'A,
+Kandara,21,"Wahome, Alice Muthoni",MURANG'A,
+Maragwa,21,"Njoroge, Mary Wamaua Waithira",MURANG'A,
+Gatanga,21,"Ngugi, Joseph Nduati",MURANG'A,
+Mosop,29,"Tuwei, Vincent Kipkurui",NANDI,
+Aldai,29,"Serem, Cornelly",NANDI,
+Emgwen,29,"Kosgey, Alexander Kimutai Kigen",NANDI,
+Tinderet,29,"Kibiwot, Julius Melly",NANDI,
+Narok North,33,"Ole Kenta, Richard Moitalel",NAROK,
+Narok South,33,"Ole Lemein, Dr. Korei",NAROK,
+Narok East,33,"Aramat, Lemanken",NAROK,
+Narok West,33,"Tongoyo, Gabriel Koshal",NAROK,
+Emurua Dikirr,33,"Kipyegon, Johana Ngeno",NAROK,
+Kilgoris,33,"Konchela, Gideon Sitelu",NAROK,
+Kitutu Masaba,46,"Mose, Shadrack John",NYAMIRA,
+West Mugirango,46,"Mogaka, Vincent Kemosi",NYAMIRA,
+North Mugirango,46,"Nyamoko, Joash Nyamache",NYAMIRA,
+Borabu,46,"Momanyi, Ben George Orori",NYAMIRA,
+Kinangop,18,"Thuku, Zachary Kwenya",NYANDARUA,
+Kipiriri,18,"Kimunyah, Amos Muhinga",NYANDARUA,
+Ol Kalou,18,"Kiaraho, David Njuguna",NYANDARUA,
+Ol Jorok,18,"Muchira, Michael Mwangi",NYANDARUA,
+Ndaragwa,18,Jeremiah Ngayu Kioni,NYANDARUA,
+Tetu,19,"Mwangi, James Gichuhi",NYERI,
+Kieni,19,"Kega, Mathenge James Kanini",NYERI,
+Mathira,19,"Gachagua, Rigathi",NYERI,
+Othaya,19,"Mugambi, James Gichuki",NYERI,
+Mukurweini,19,"Kiai, Anthony Githiaka",NYERI,
+Nyeri Town,19,"Wambugu, Martin Deric Ngunjiri",NYERI,
+Samburu East,25,"Lekumontare, Lentoi Joni L. Jackson",SAMBURU,
+Samburu North,25,"Lentoimaga, Alois Musa",SAMBURU,
+Samburu West,25,"Lesuuda, Josephine Naisula",SAMBURU,
+Alego Usonga,41,"Atandi, Samuel Onunga",SIAYA,
+Bondo,41,"Ogolla, Gideon Ochanda",SIAYA,
+Gem,41,"Odhiambo, Elisha Ochieng",SIAYA,
+Rarieda,41,"Amollo, Dr. Otiende",SIAYA,
+Ugenya,41,"Ochieng, David Ouma",SIAYA,
+Ugunja,41,James Upiyo Wandayi,SIAYA,
+Taveta,6,"Shaban, Naomi Namsi",TAITA TAVETA,
+Wundanyi,6,"Mwakuwona, Danson Mwashako",TAITA TAVETA,
+Mwatate,6,"Mwadime, Andrew",TAITA TAVETA,
+Voi,6,"Mlolwa, Jones Mwagogo",TAITA TAVETA,
+Garsen,4,"Guyo, Ali Wario",TANA RIVER,
+Galole,4,"Hiribae, Said Buya",TANA RIVER,
+Bura,4,"Wario, Ali",TANA RIVER,
+Maara,13,"Mbiuki, Japhet Miriti Kareke",THARAKA -NITHI,
+Chuka/Igambang'ombe,13,"Ntwiga, Patrick Munene",THARAKA -NITHI,
+Tharaka,13,"Murugara, George Gitonga",THARAKA -NITHI,
+Kwanza,26,"Wanyonyi, Ferdinard Kevin",TRANZ NZOIA,
+Endebess,26,Robert Pukose,TRANZ NZOIA,
+Cherangany,26,"Serem, Joshua Kutuny",TRANZ NZOIA,
+Saboti,26,"Luyai, Caleb Amisi",TRANZ NZOIA,
+Kiminini,26,"Wakhungu, Chrisantus Wamalwa",TRANZ NZOIA,
+Lioma,23,"Lomorukai, Jeremiah Ekamais",TURKANA,
+Turkana Central,23,"Nakara, John Lodepe",TURKANA,
+Turkana East,23,"Mohammed, Lokiru Ali",TURKANA,
+Turkana North,23,"Nakuleu, Christopher Doye",TURKANA,
+Turkana South,23,"Ekomwa, James Lomenen",TURKANA,
+Turkana West,23,"Nanok, Daniel Epuyo",TURKANA,
+Ainabkoi,27,"Chepkut, William Kamuren Chirchir",UASIN GISHU,
+Kapseret,27,"Sudi, Oscar Kipchumba",UASIN GISHU,
+Kesses,27,"Mishra, Swarup Ranjan",UASIN GISHU,
+Moiben,27,"Tiren, Silas Kipkoech",UASIN GISHU,
+Soy,27,"Kositany, Caleb Kipkemei",UASIN GISHU,
+Turbo,27,"Sitienei, Janet Jepkemboi",UASIN GISHU,
+Emuhaya,38,"Milemba, Jeremiah Omboko",VIHIGA,
+Hamisi,38,"Gimose, Charles Gumini",VIHIGA,
+Sabatia,38,"Masadia, Alfred Agoi",VIHIGA,
+Vihiga,38,"Kivai, Ernest Ogesi",VIHIGA,
+Luanda,38,"Omulele, Christopher",VIHIGA,
+Eldas,8,"Keynan, Wehliye Adan",WAJIR,
+Tarbaj,8,"Gaal, Ahmed Bashane",WAJIR,
+Wajir North,8,"Ibrahim, Ahmed Abdisalan",WAJIR,
+Wajir West,8,"Mohamed, Ahmed Kolosh",WAJIR,
+Wajir East,8,"Amin, Rashid Kassim",WAJIR,
+Wajir South,8,"Mohammed, Mohamud Sheikh",WAJIR,
+Kacheliba,24,"Lomunokol, Mark",WEST POKOT,
+Kapenguria,24,"Chumel, Samwel Moroto",WEST POKOT,
+Sigor,24,"Lochakapong, Peter",WEST POKOT,
+Pokot South,24,"Pkosing, David Losiakou",WEST POKOT,
+Moyale,10,"Wario, Qalicha Gufu",MARSABIT,
+North Horr,10,Chachu Ganya,MARSABIT,
+Saku,10,Ali Rasso Dido,MARSABIT,
+Laisamis,10,Arbelle Marselino Malimo,MARSABIT,
+Tigania East,12,Josphat Gichunge Kabeabea,MERU,
+Tigania West,12,John Kanyuithia Mutunga,MERU,
+Igembe North,12,Maoka Richard Maore,MERU,
+Igembe South,12,"Mwirigi, John Paul",MERU,
+North Iment,12,"Dawood, Abdul Rahim",MERU,
+South Imenti,12,"Murungi, Kathuri",MERU,
+Igembe Central,12,"Iringo, Cyprian Kubai",MERU,
+Central Imenti,12,"Kirima, Moses Nguchine",MERU,
+Westlands,47,"Wetangula, Timothy Wanyonyi",NAIROBI CITY,
+Dagoretti North,47,"Arati, Paul Simba",NAIROBI CITY,
+Dagoretti South,47,"Waweru, John Kiarie",NAIROBI CITY,
+Langata,47,"Korir, Generali Nixon Kiprotich",NAIROBI CITY,
+Kibra,47,"Okoth, Benard Otieno",NAIROBI CITY,
+Roysambu,47,"Ndirangu, Isaac Waihenya",NAIROBI CITY,
+Kasarani,47,"Gakuya, Mercy Wanjiku",NAIROBI CITY,
+Ruaraka,47,"Kajwang’, Francis Tom Joseph",NAIROBI CITY,
+Embakasi South,47,"Mawathe, Julius Musili",NAIROBI CITY,
+Embakasi North,47,"Gakuya, James Mwangi",NAIROBI CITY,
+Embakasi Central,47,"Mwangi, Benjamin Gathiru",NAIROBI CITY,
+Embakasi East,47,"Babu, Owino Paul Ongili",NAIROBI CITY,
+Embakasi West,47,"Theuri, George",NAIROBI CITY,
+Makadara,47,"Omwera, George Aladwa",NAIROBI CITY,
+Kamukunji,47,"Abdi, Yusuf Hassan",NAIROBI CITY,
+Starehe,47,"Kanyi, Charles Njagua",NAIROBI CITY,
+Mathare,47,"Oluoch, Anthony Tom",NAIROBI CITY,
+Molo,32,"Kimani, Francis Kuria",NAKURU,
+Njoro,32,"Chepkwony, Charity Kathambi",NAKURU,
+Naivasha,32,"Kihara, Jayne Njeri Wanjiru",NAKURU,
+Gilgil,32,"Wanjira, Martha Wangari",NAKURU,
+Kuresoi South,32,"Kipkosgei, Joseph Tonui",NAKURU,
+Kuresoi North,32,"Cheboi, Moses Kipkemboi",NAKURU,
+Subukia,32,"Gachobe, Samuel Kinuthia",NAKURU,
+Rongai,32,"Moi, Kipruto",NAKURU,
+Bahati,32,"Ngunjiri, Onesmas Kimani",NAKURU,
+Nakuru Town West,32,"Arama, Samuel",NAKURU,
+Nakuru Town East,32,"Gikaria, David",NAKURU,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""CHEPALUNGU"",",,
+"        ""CONSTI_CODE"": ""195""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""BOMET EAST"",",,
+"        ""CONSTI_CODE"": ""196""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""SOTIK"",",,
+"        ""CONSTI_CODE"": ""194""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""BOMET CENTRAL"",",,
+"        ""CONSTI_CODE"": ""197""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""NORTH MUGIRANGO"",",,
+"        ""CONSTI_CODE"": ""272""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""WEST MUGIRANGO"",",,
+"        ""CONSTI_CODE"": ""271""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KITUTU MASABA"",",,
+"        ""CONSTI_CODE"": ""270""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""BORABU"",",,
+"        ""CONSTI_CODE"": ""273""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""NYAKACH"",",,
+"        ""CONSTI_CODE"": ""244""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""SEME"",",,
+"        ""CONSTI_CODE"": ""241""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""NYANDO"",",,
+"        ""CONSTI_CODE"": ""242""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KISUMU WEST"",",,
+"        ""CONSTI_CODE"": ""239""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KISUMU EAST"",",,
+"        ""CONSTI_CODE"": ""238""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MUHORONI"",",,
+"        ""CONSTI_CODE"": ""243""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KISUMU CENTRAL"",",,
+"        ""CONSTI_CODE"": ""240""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""LUGARI"",",,
+"        ""CONSTI_CODE"": ""199""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""ENDEBESS"",",,
+"        ""CONSTI_CODE"": ""137""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KWANZA"",",,
+"        ""CONSTI_CODE"": ""136""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""SABOTI"",",,
+"        ""CONSTI_CODE"": ""138""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""CHERANGANY"",",,
+"        ""CONSTI_CODE"": ""140""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""KIMININI"",",,
+"        ""CONSTI_CODE"": ""139""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""LIKUYANI"",",,
+"        ""CONSTI_CODE"": ""200""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""LAFEY"",",,
+"        ""CONSTI_CODE"": ""44""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MANDERA EAST"",",,
+"        ""CONSTI_CODE"": ""43""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""EMBAKASI WEST"",",,
+"        ""CONSTI_CODE"": ""286""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""EMBAKASI EAST"",",,
+"        ""CONSTI_CODE"": ""285""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""EMBAKASI NORTH"",",,
+"        ""CONSTI_CODE"": ""283""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""EMBAKASI CENTRAL"",",,
+"        ""CONSTI_CODE"": ""284""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""EMBAKASI SOUTH"",",,
+"        ""CONSTI_CODE"": ""282""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MAKADARA"",",,
+"        ""CONSTI_CODE"": ""287""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MWINGI WEST"",",,
+"        ""CONSTI_CODE"": ""68""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MWINGI CENTRAL"",",,
+"        ""CONSTI_CODE"": ""69""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""MWINGI NORTH"",",,
+"        ""CONSTI_CODE"": ""67""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""OL JOROK"",",,
+"        ""CONSTI_CODE"": ""92""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""OL KALOU"",",,
+"        ""CONSTI_CODE"": ""91""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""SUNA EAST"",",,
+"        ""CONSTI_CODE"": ""255""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""SUNA WEST"",",,
+"        ""CONSTI_CODE"": ""256""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""LAIKIPIA WEST"",",,
+"        ""CONSTI_CODE"": ""163""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""LAIKIPIA EAST"",",,
+"        ""CONSTI_CODE"": ""164""",,
+"    },",,
+    {,,
+"        ""CONSTITUEN"": ""CHANGAMWE"",",,
+"        ""CONSTI_CODE"": ""1""",,
+    },,
+  ],,
+
+  for (let i=0; i<jsonC.length; i++){,,
+    console.log('name ' + jsonC[i].CONSTITUEN),,
+  },,
