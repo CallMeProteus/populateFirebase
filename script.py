@@ -14,7 +14,7 @@ db = firestore.client()
 print( 'checking for json files in : '+os.getcwd()+'\jsonFiles')
 
 for filename in os.listdir(os.getcwd()+'\jsonFiles'):
-
+    print(f"uploading {filename} ...")
     if filename.endswith('.json'):
 
         collectionName = filename.split('.')[0] # filename minus ext will be used as collection name
@@ -34,4 +34,6 @@ for filename in os.listdir(os.getcwd()+'\jsonFiles'):
             else:
 
                 db.collection(collectionName).add(doc)
-        print('Success, Document uploaded to firestore')
+                
+        
+        print(f"Success, {filename} uploaded to firestore")
