@@ -1,1 +1,3 @@
-cred/
+cred.json
+pollingStationMarkers.json
+.gitignore
